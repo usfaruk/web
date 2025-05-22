@@ -1,0 +1,1 @@
+laravel-exceptions-renderer::components.icons.computer-desktop<?php /**PATH C:\xampp\htdocs\website\storage\framework\views/5713eae56a4ce0bd48b824ec3c4112b4.blade.php ENDPATH**/ ?>

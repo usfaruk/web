@@ -1,0 +1,1 @@
+laravel-exceptions-renderer::components.icons.moon<?php /**PATH C:\xampp\htdocs\website\storage\framework\views/881b9b9d7644a5b8ed749c1cb8880bab.blade.php ENDPATH**/ ?>

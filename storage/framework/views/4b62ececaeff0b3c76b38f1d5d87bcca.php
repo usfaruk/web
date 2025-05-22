@@ -1,0 +1,1 @@
+laravel-exceptions-renderer::components.icons.sun<?php /**PATH C:\xampp\htdocs\website\storage\framework\views/986e4c30f7a8283f47a917313d5a31ed.blade.php ENDPATH**/ ?>

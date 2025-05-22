@@ -1,0 +1,1 @@
+laravel-exceptions-renderer::components.icons.chevron-down<?php /**PATH C:\xampp\htdocs\website\storage\framework\views/4e34ff252046fe1bca01d02e31c2ce05.blade.php ENDPATH**/ ?>
